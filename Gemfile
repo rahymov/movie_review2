@@ -19,6 +19,8 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'devise', '~> 4.4'
 gem 'paperclip', '~> 5.1'
 gem 'animate-rails', '~> 1.0', '>= 1.0.10'
+gem 'elasticsearch', '~> 6.0'
+gem 'searchkick', '~> 2.4'
 
 
 group :development, :test do
